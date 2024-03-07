@@ -1,6 +1,6 @@
 camera0: 6
 camera1: 12
-frame_width: 1280
+frame_width: 720
 frame_height: 720
 mono_calibration_frames: 10
 stereo_calibration_frames: 10
